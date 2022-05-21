@@ -1,1 +1,1 @@
-![Image of ethereum loge](https://de.wikipedia.org/wiki/Ethereum#/media/Datei:Ethereum_logo_translucent.svg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
